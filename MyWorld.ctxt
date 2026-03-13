@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=level
+comment3.target=void\ prepareLevel(int)
+comment4.params=
+comment4.target=void\ addRandomFood()
+comment5.params=
+comment5.target=void\ addRandomNonFood()
+comment6.params=points
+comment6.target=void\ updateScore(int)
+comment7.params=
+comment7.target=void\ loseLife()
+numComments=8
